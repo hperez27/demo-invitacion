@@ -1,0 +1,15 @@
+INVITACIÓN DE BODA - DEMO
+
+1. Descomprime la carpeta.
+2. Abre index.html con Chrome, Edge, Firefox o Safari.
+3. Necesitas conexión a Internet porque las fotos y tipografías de esta demo se cargan desde URLs públicas.
+4. Edita index.html para cambiar nombres, fechas, lugares y textos.
+5. Edita css/styles.css para cambiar colores y diseño.
+
+Estructura:
+- index.html
+- css/styles.css
+- js/invitation.js
+
+Nota:
+Las fotografías son referencias públicas de Unsplash utilizadas únicamente para la demostración.
